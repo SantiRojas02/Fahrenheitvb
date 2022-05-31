@@ -1,0 +1,9 @@
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\bin\Debug\FahrenheitVb.exe.config
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\obj\Debug\FahrenheitVb.Resources.resources
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\obj\Debug\FahrenheitVb.vbproj.GenerateResource.Cache
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\bin\Debug\FahrenheitVb.exe
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\bin\Debug\FahrenheitVb.pdb
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\bin\Debug\FahrenheitVb.xml
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\obj\Debug\FahrenheitVb.exe
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\obj\Debug\FahrenheitVb.xml
+S:\Programacion\FahrenheitVb\FahrenheitVb\FahrenheitVb\obj\Debug\FahrenheitVb.pdb
